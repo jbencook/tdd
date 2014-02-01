@@ -1,0 +1,6 @@
+Django==1.6.1
+selenium==2.39.0
+stevedore==0.14.1
+virtualenv==1.11.2
+virtualenv-clone==0.2.4
+virtualenvwrapper==4.2
